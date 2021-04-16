@@ -1,5 +1,0 @@
-
-
-PROJECT DESCRIPTION
-
-subheader
